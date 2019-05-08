@@ -1423,3 +1423,50 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.08-22.20.22:642][520]SourceControl:  rewrite Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset (71%)
 [2019.05.08-22.20.22:642][520]SourceControl:  rewrite Content/MixamoAnimPack/Mixamo_SWAT/Mixamo_Swat.uasset (98%)
 [2019.05.08-22.20.22:646][520]SourceControl: Commited [master bf87bcb] Start from Scratch with Assets.
+[2019.05.08-22.20.46:905][751]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (24.250 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-22.20.58:677][120]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.08-22.21.03:576][661]SourceControl: fatal: D:/Spiele/UE_4.22/Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset: 'D:/Spiele/UE_4.22/Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset' is outside repository
+[2019.05.08-22.21.03:576][661]SourceControl: fatal: D:/Spiele/UE_4.22/Engine/Content/EngineLightProfiles: 'D:/Spiele/UE_4.22/Engine/Content/EngineLightProfiles' is outside repository
+[2019.05.08-22.21.03:576][661]SourceControl: fatal: D:/Spiele/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions01/Coordinates: 'D:/Spiele/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions01/Coordinates' is outside repository
+[2019.05.08-22.21.03:576][661]SourceControl: fatal: D:/Spiele/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions02/SupportFiles/1x1x1_Box_Pivot_-XYZ.uasset: 'D:/Spiele/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions02/SupportFiles/1x1x1_Box_Pivot_-XYZ.uasset' is outside repository
+[2019.05.08-22.21.03:576][661]SourceControl: fatal: D:/Spiele/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/2dArrayLookupByIndex.uasset: 'D:/Spiele/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/2dArrayLookupByIndex.uasset' is outside repository
+[2019.05.08-22.21.03:576][661]SourceControl: fatal: D:/Spiele/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/3ColorBlend.uasset: 'D:/Spiele/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/3ColorBlend.uasset' is outside repository
+[2019.05.08-22.21.03:576][661]SourceControl: fatal: D:/Spiele/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions02/Texturing: 'D:/Spiele/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions02/Texturing' is outside repository
+[2019.05.08-22.21.03:576][661]SourceControl: fatal: D:/Spiele/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent: 'D:/Spiele/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent' is outside repository
+[2019.05.08-22.21.03:576][661]SourceControl: fatal: D:/Spiele/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions02/3PointLevels.uasset: 'D:/Spiele/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions02/3PointLevels.uasset' is outside repository
+[2019.05.08-22.21.03:576][661]SourceControl: fatal: D:/Spiele/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/AbberatedBlur-Texture.uasset: 'D:/Spiele/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/AbberatedBlur-Texture.uasset' is outside repository
+[2019.05.08-22.21.07:668][139]SourceControl: fatal: D:/Spiele/UE_4.22/Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset: 'D:/Spiele/UE_4.22/Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset' is outside repository
+[2019.05.08-22.21.07:668][139]SourceControl: fatal: D:/Spiele/UE_4.22/Engine/Content/EngineLightProfiles: 'D:/Spiele/UE_4.22/Engine/Content/EngineLightProfiles' is outside repository
+[2019.05.08-22.21.07:668][139]SourceControl: fatal: D:/Spiele/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions01/Coordinates: 'D:/Spiele/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions01/Coordinates' is outside repository
+[2019.05.08-22.21.07:668][139]SourceControl: fatal: D:/Spiele/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions02/SupportFiles/1x1x1_Box_Pivot_-XYZ.uasset: 'D:/Spiele/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions02/SupportFiles/1x1x1_Box_Pivot_-XYZ.uasset' is outside repository
+[2019.05.08-22.21.07:668][139]SourceControl: fatal: D:/Spiele/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/2dArrayLookupByIndex.uasset: 'D:/Spiele/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/2dArrayLookupByIndex.uasset' is outside repository
+[2019.05.08-22.21.07:669][139]SourceControl: fatal: D:/Spiele/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/3ColorBlend.uasset: 'D:/Spiele/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/3ColorBlend.uasset' is outside repository
+[2019.05.08-22.21.07:669][139]SourceControl: fatal: D:/Spiele/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions02/Texturing: 'D:/Spiele/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions02/Texturing' is outside repository
+[2019.05.08-22.21.07:669][139]SourceControl: fatal: D:/Spiele/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent: 'D:/Spiele/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent' is outside repository
+[2019.05.08-22.21.07:669][139]SourceControl: fatal: D:/Spiele/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions02/3PointLevels.uasset: 'D:/Spiele/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions02/3PointLevels.uasset' is outside repository
+[2019.05.08-22.21.07:669][139]SourceControl: fatal: D:/Spiele/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/AbberatedBlur-Texture.uasset: 'D:/Spiele/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/AbberatedBlur-Texture.uasset' is outside repository
+[2019.05.08-22.21.10:173][433]LogEditorViewport: Clicking on Actor (LMB): Ac_InteractableBox_C (Ac_InteractableBox)
+[2019.05.08-22.21.12:067][649]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.08-22.21.24:100][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2019.05.08-22.21.24:105][ 81]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.08-22.21.24:192][ 81]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.08-22.21.24:233][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2019.05.08-22.21.24:437][ 81]LogSavePackage: Moving '../../../../../GitHub/UE4ProjectNew/NewProject/Saved/FirstPersonExampleMap20A3712A4A5A365EE4AC84B06C9B3D91.tmp' to '../../../../../GitHub/UE4ProjectNew/NewProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.05.08-22.21.24:465][ 81]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.269
+[2019.05.08-22.21.28:627][511]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.08-22.21.35:381][309]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2019.05.08-22.21.35:386][309]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.08-22.21.35:483][309]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.08-22.21.35:526][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2019.05.08-22.21.35:733][309]LogSavePackage: Moving '../../../../../GitHub/UE4ProjectNew/NewProject/Saved/FirstPersonExampleMap810C5AD94171D637CDEEDFADC939EF80.tmp' to '../../../../../GitHub/UE4ProjectNew/NewProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.05.08-22.21.35:760][309]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.272
+[2019.05.08-22.21.36:435][386]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.08-22.21.37:722][535]SourceControl: fatal: D:/Spiele/UE_4.22/Engine/Content: 'D:/Spiele/UE_4.22/Engine/Content' is outside repository
+[2019.05.08-22.21.37:886][535]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.08-22.21.47:296][535]LogSlate: Window 'Submit Files' being destroyed
+[2019.05.08-22.21.47:303][535]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.08-22.21.47:390][535]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.08-22.21.48:409][535]LogSourceControl: commit successful: [master 8a9bba7] Changed Cube Size Added: 1 Cube
+[2019.05.08-22.21.48:487][535]SourceControl: [master 8a9bba7] Changed Cube Size Added: 1 Cube
+[2019.05.08-22.21.48:487][535]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2019.05.08-22.21.48:490][535]SourceControl: Commited [master 8a9bba7] Changed Cube Size Added: 1 Cube.
